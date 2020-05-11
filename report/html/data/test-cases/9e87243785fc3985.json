@@ -1,0 +1,56 @@
+{
+  "uid" : "9e87243785fc3985",
+  "name" : "test_5",
+  "fullName" : "scripts.test_login.TestLogin#test_5",
+  "historyId" : "b72c78ef4d9a3464bdd300600421838e",
+  "time" : {
+    "start" : 1589189924979,
+    "stop" : 1589189924979,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "statusMessage" : "XPASS condition: True",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "scripts"
+  }, {
+    "name" : "suite",
+    "value" : "test_login"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestLogin"
+  }, {
+    "name" : "host",
+    "value" : "lr-PC"
+  }, {
+    "name" : "thread",
+    "value" : "8788-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "scripts.test_login"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9e87243785fc3985.json",
+  "parameterValues" : [ ]
+}
